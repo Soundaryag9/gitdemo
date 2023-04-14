@@ -18,7 +18,7 @@ while True:
 		if smallest is None:
 			smallest=num
 		elif num<smallest:
-			smallest=num
+			smallest=n
 	except:
 		print('wrong input')
 print('maximum is',largest,'minimum is',smallest,'count is',count,'sum is',add,'avg is',add/count)
