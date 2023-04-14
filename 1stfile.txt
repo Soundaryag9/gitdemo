@@ -11,7 +11,7 @@ while True:
 		d=float(num)
 		count=count+1
 		add=add+d
-		if largest is None:
+		if largest is:
 			largest=num
 		elif num>largest:
 			largest=num
